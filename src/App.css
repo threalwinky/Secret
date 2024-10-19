@@ -1,0 +1,17 @@
+@keyframes example {
+  0%   {transform: translate(0px, 0px);}
+ 
+  100% {transform: translate(0px, 100x);}
+}
+
+
+.a{
+  animation-name: example;
+  animation-duration: 4s;
+  position: absolute;
+  /* background: red; */
+  background-image: url("https://img1.picmix.com/output/stamp/normal/2/2/7/1/1251722_f3c91.gif");
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
