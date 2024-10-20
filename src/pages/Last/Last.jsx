@@ -18,7 +18,7 @@ function Last({setCont}) {
         <img src={bh} alt="" />
         <p className='font-lb text-xl'>Bạn biết chỗ này chứ? </p>
         <p className='font-lb text-xl'>Hãy tới đây chung vui với bọn mình</p>
-        <p className='font-lb text-xl'>vào lúc 7:30 tối nhé!</p>
+        <p className='font-lb text-xl'>vào lúc 8 giờ tối nhé!</p>
     </div>
 
       {/* <div className='flex flex-col'>
